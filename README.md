@@ -1,5 +1,7 @@
 # self-tuning-sort-algorithm
+[Analysis Report of Self-Tuning Sort Algorithm](https://github.com/mano361/self-tuning-sort-algorithm/blob/main/Analysis%20of%20Self-Tuning%20Sort%20with%20Traditional%20Sorting%20Algorithms.pdf)
 The Self-Tuning Sort algorithm is a novel sorting technique that aims to improve the efficiency of sorting operations. It involves analyzing the input data and splitting the array into subarrays based on their characteristics, such as increasing, decreasing, or random sequences. The algorithm then applies the Merge Sort's merge subarrays' approach to sort the array.
+
 
 ***Key Features:***
 
@@ -16,4 +18,4 @@ The algorithm dynamically adapts its sorting approach based on the characteristi
 * **Scalability:**
 The algorithm demonstrates good performance even with large arrays, making it suitable for sorting operations of various sizes.
 
-[Analysis Report of Self-Tuning Sort Algorithm](https://github.com/mano361/self-tuning-sort-algorithm/blob/main/Analysis%20of%20Self-Tuning%20Sort%20with%20Traditional%20Sorting%20Algorithms.pdf)
+
