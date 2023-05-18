@@ -16,4 +16,4 @@ The algorithm dynamically adapts its sorting approach based on the characteristi
 * **Scalability:**
 The algorithm demonstrates good performance even with large arrays, making it suitable for sorting operations of various sizes.
 
-[Analysis Report of Self-Tuning Sort Algorithm](Analysis of Self-Tuning Sort with Traditional Sorting Algorithms.pdf)
+Analysis Report of [Self-Tuning Sort Algorithm](./Analysis of Self-Tuning Sort with Traditional Sorting Algorithms.pdf)
