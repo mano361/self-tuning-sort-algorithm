@@ -15,3 +15,5 @@ By leveraging the characteristics of the input data, the Self-Tuning Sort algori
 The algorithm dynamically adapts its sorting approach based on the characteristics of the array, allowing it to handle various types of data more effectively.
 * **Scalability:**
 The algorithm demonstrates good performance even with large arrays, making it suitable for sorting operations of various sizes.
+
+[Analysis Report of Self-Tuning Sort Algorithm](Analysis of Self-Tuning Sort with Traditional Sorting Algorithms.pdf)
