@@ -3,7 +3,7 @@ The Self-Tuning Sort algorithm is a novel sorting technique that aims to improve
 
 **Key Features:**
 
-* <u>Input Analysis:<\u> The algorithm performs a preliminary analysis of the input data to identify the characteristics of the array, such as increasing, decreasing, or random sequences.
+* <u>Input Analysis:</u> The algorithm performs a preliminary analysis of the input data to identify the characteristics of the array, such as increasing, decreasing, or random sequences.
 * Subarray Splitting: Based on the analysis, the array is split into subarrays, grouping together elements with similar characteristics.
 * Merge Sort Approach: The algorithm employs the merge functionality from the Merge Sort algorithm to merge and sort the subarrays, ensuring the final sorted array.
 
