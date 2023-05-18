@@ -9,6 +9,9 @@ The Self-Tuning Sort algorithm is a novel sorting technique that aims to improve
 
 **Benefits:**
 
-* Improved Efficiency: By leveraging the characteristics of the input data, the Self-Tuning Sort algorithm optimizes the sorting process, resulting in improved efficiency.
-* Adaptive Sorting: The algorithm dynamically adapts its sorting approach based on the characteristics of the array, allowing it to handle various types of data more effectively.
-* Scalability: The algorithm demonstrates good performance even with large arrays, making it suitable for sorting operations of various sizes.
+* _Improved Efficiency:_
+By leveraging the characteristics of the input data, the Self-Tuning Sort algorithm optimizes the sorting process, resulting in improved efficiency.
+* _Adaptive Sorting:_
+The algorithm dynamically adapts its sorting approach based on the characteristics of the array, allowing it to handle various types of data more effectively.
+* _Scalability:_
+The algorithm demonstrates good performance even with large arrays, making it suitable for sorting operations of various sizes.
